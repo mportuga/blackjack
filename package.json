@@ -11,6 +11,10 @@
     "casino",
     "sockets"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mportuga/blackjack"
+  },
   "author": "Marcelo S. Portugal",
   "license": "MIT",
   "dependencies": {

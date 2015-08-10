@@ -1,1 +1,1 @@
-A personal development project done by me to create a simple game of blackjack using NodeJS.
+A personal development project done by me to create a simple game of blackjack using NodeJS. In order to run it in this current version simply open the terminal, cd into the project folder and run "node app.js <playerName>."

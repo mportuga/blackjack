@@ -1,0 +1,19 @@
+{
+  "name": "blackjack",
+  "version": "0.0.1",
+  "description": "A small project to create a game of blackjack with node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blackjack",
+    "casino",
+    "sockets"
+  ],
+  "author": "Marcelo S. Portugal",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
